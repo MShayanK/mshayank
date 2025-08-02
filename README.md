@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML5, CSS3, and Bootstrap 5. It showcases my design and development projects, including blogs, e-commerce platforms, PHP (CRUD), and learning platforms.
 
 ## 💼 Live Website:
-https://mshayank.github.io/
+🔗 [View Live Website](https://mshayank.github.io/mshayank/)
 
 ## 🚀 Tech Stack:
 - HTML5
